@@ -1,8 +1,9 @@
 {
   "name": "dailyhot",
   "description": "今日热榜",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy",
+  "author": "客怎眠qvq",
+  "github": "https://github.com/bluehyssopu",
+  "descriptions": "原项目作者为github/imyss，本项目仅私有化部署。",
   "version": "1.1.0",
   "private": true,
   "scripts": {
